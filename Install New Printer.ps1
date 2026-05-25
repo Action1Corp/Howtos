@@ -1,3 +1,10 @@
+# Action1 Public Repository Material
+# Subject to TERMS_OF_USE.md (https://github.com/Action1Corp/PSAction1/blob/main/TERMS_OF_USE.md)
+# Provided AS IS
+# Use at your own risk
+# Review and test before production deployment
+# © Action1 Corporation
+
 Add-PrinterPort -Name “IP_192.168.10.26” -PrinterHostAddress “192.168.10.26”
 
 #Before adding a port, you’d better check if it already exists or otherwise:
